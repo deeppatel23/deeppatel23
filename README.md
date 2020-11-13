@@ -66,7 +66,7 @@ Hi, I'm [Deep Patel](https://www.linkedin.com/in/deep-patel-92b95b1a3), a Compet
 <!--<details>-->
 <summary>📈 My GitHub Stats</summary>
 
-<!--https://github-readme-stats.vercel.app/api?username=bhargavbhatiya&show_icons=true&theme=gotham-->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bhargavbhatiya&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Bhargav Bhatiya" />
+<!--https://github-readme-stats.vercel.app/api?username=deeppatel23&show_icons=true&theme=gotham-->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=deeppatel23&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Bhargav Bhatiya" />
 
 <!--</details>-->
