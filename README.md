@@ -50,6 +50,7 @@ Hi, I'm [Deep Patel](https://www.linkedin.com/in/deep-patel-92b95b1a3), a Compet
 - 📫 How to reach me: [@deeppatel23](https://www.linkedin.com/in/deep-patel-92b95b1a3);
 - 😄 Pronouns: coder, developer💻... 
 - 📝[Resume](https://drive.google.com/file/d/1oTzNrgzqI74birA7OdWcirl2meKQOsiv/view)
+- 🔗[Portfolio](https://deeppatel23.github.io/portfolio/)
 
 **Languages and Tools:**  
 
