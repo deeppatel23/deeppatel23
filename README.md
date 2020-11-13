@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Hi, I'm [Deep Patel](https://www.linkedin.com/in/deep-patel-92b95b1a3), a Competitive Programmer and Android Developer 🚀 from Gujarat, India, currently, Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Deep Patel](https://www.linkedin.com/in/deep-patel-92b95b1a3), a AI enthusiast and (Web/Android) Developer 🚀 from Gujarat, India, currently, Beside's programming, I enjoy eating food, traveling and youtubing.
 
  <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />-->
   
