@@ -17,22 +17,22 @@ Here are some ideas to get you started:
 -->
 ### Hey there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!--<a href="https://medium.com/@bhatiyabhargav.bb">
-  <img align="left" alt="Bhargav Bhatiya | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/medium.svg" />
+  <img align="left" alt="Deep Patel | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/medium.svg" />
 </a>
 <a href="https://twitter.com/BhargavBhatiya8">
-  <img align="left" alt="Bhargav Bhatiya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Deep Patel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>-->
 <a href="https://www.linkedin.com/in/deep-patel-92b95b1a3">
-  <img align="left" alt="Bhargav Bhatiya | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Deep Patel | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a><!--
 <a href="https://www.instagram.com/oyy_bhatiya/">
-  <img align="left" alt="Bhargav Bhatiya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Deep Patel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.qwiklabs.com/public_profiles/2e2e4e11-d3d8-47d1-95f6-96292ac78185">
-  <img align="left" alt="Bhargav Bhatiya | Quiklab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/qwiklabs.svg" />
+  <img align="left" alt="Deep Patel | Quiklab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/qwiklabs.svg" />
 </a>-->
 <a href="https://github.com/deeppatel23">
-  <img align="left" alt="Bhargav Bhatiya | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg" />
+  <img align="left" alt="Deep Patel | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg" />
 </a>
 
 <br />
@@ -49,7 +49,7 @@ Hi, I'm [Deep Patel](https://www.linkedin.com/in/deep-patel-92b95b1a3), a AI ent
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@deeppatel23](https://www.linkedin.com/in/deep-patel-92b95b1a3);
 - 😄 Pronouns: coder, developer💻... 
-- 📝[Resume](https://drive.google.com/file/d/1oTzNrgzqI74birA7OdWcirl2meKQOsiv/view)
+- 📝[Resume](https://drive.google.com/file/d/1DZDuSEmrWQyKHwYpInRNf_TYwQTmob1Y/view?usp=sharing)
 - 🔗[Portfolio](https://deeppatel23.github.io/portfolio/)
 
 **Languages and Tools:**  
