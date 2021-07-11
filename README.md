@@ -65,6 +65,14 @@ Hi, I'm [Deep Patel](https://www.linkedin.com/in/deep-patel-92b95b1a3), a AI ent
 
 
 <!--<details>-->
+## Vistor Count
+![Visitor Count](https://profile-counter.glitch.me/deeppatel23/count.svg)
+
+## Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deeppatel23&layout=compact)](https://github.com/deeppatel23/github-readme-stats)
+
+## Summary
 <summary>📈 My GitHub Stats</summary>
 
 <!--https://github-readme-stats.vercel.app/api?username=deeppatel23&show_icons=true&theme=gotham-->
