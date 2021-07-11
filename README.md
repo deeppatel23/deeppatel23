@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hey there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<!--<a href="https://medium.com/@bhatiyabhargav.bb">
+<a href="https://medium.com/@deeppatel23">
   <img align="left" alt="Deep Patel | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/medium.svg" />
 </a>
-<a href="https://twitter.com/BhargavBhatiya8">
+<a href="https://twitter.com/pateldeep_23">
   <img align="left" alt="Deep Patel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>-->
+</a
 <a href="https://www.linkedin.com/in/deep-patel-92b95b1a3">
   <img align="left" alt="Deep Patel | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a><!--
