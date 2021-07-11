@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hey there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://twitter.com/pateldeep_23">
+  <img align="left" alt="Deep Patel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 <a href="https://medium.com/@deeppatel23">
   <img align="left" alt="Deep Patel | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/medium.svg" />
 </a>
-<a href="https://twitter.com/pateldeep_23">
-  <img align="left" alt="Deep Patel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a
 <a href="https://www.linkedin.com/in/deep-patel-92b95b1a3">
   <img align="left" alt="Deep Patel | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a><!--
@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.qwiklabs.com/public_profiles/2e2e4e11-d3d8-47d1-95f6-96292ac78185">
   <img align="left" alt="Deep Patel | Quiklab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/qwiklabs.svg" />
-</a>-->
+</a>
 <a href="https://github.com/deeppatel23">
   <img align="left" alt="Deep Patel | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg" />
-</a>
+</a>-->
 
 <br />
 <br />
