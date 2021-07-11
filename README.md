@@ -67,6 +67,7 @@ Hi, I'm [Deep Patel](https://www.linkedin.com/in/deep-patel-92b95b1a3), a AI ent
 <!--<details>-->
 
 **Summary**
+
 [![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=deeppatel23&count_private=true&show_icons=true&theme=react)](https://github.com/deeppatel23/github-readme-stats)
 
 <!--</details>-->
