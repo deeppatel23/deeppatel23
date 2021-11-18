@@ -38,9 +38,11 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Hi, I'm [Deep Patel](https://www.linkedin.com/in/deep-patel-92b95b1a3), a AI enthusiast and (Web/Android) Developer 🚀 from Gujarat, India, currently, Beside's programming, I enjoy eating food, traveling and youtubing.
+Hi, I'm [Deep Patel](https://www.linkedin.com/in/deep-patel-92b95b1a3), a Tech enthusiast and (Web/Android) Developer 🚀 from Gujarat, India, currently, Beside's programming, I enjoy eating food, traveling and exploring new tech stuffs.
 
  <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />-->
+ 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeppatel23&label=Profile%20views&color=0e75b6&style=flat" alt="Deep Patel" /> </p>
   
 **Talking about Personal Stuffs:**
 
@@ -69,5 +71,7 @@ Hi, I'm [Deep Patel](https://www.linkedin.com/in/deep-patel-92b95b1a3), a AI ent
 **Summary**
 
 [![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=deeppatel23&count_private=true&show_icons=true&theme=react)](https://github.com/deeppatel23/github-readme-stats)
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deeppatel23&" alt="deeppatel" />
 
 <!--</details>-->
