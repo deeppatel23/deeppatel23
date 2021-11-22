@@ -1,61 +1,33 @@
-<!--
-### Hi there 👋
-
-
-**deeppatel23/deeppatel23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hey there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/pateldeep_23">
-  <img align="left" alt="Deep Patel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://medium.com/@deeppatel23">
-  <img align="left" alt="Deep Patel | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/medium.svg" />
-</a>
-<a href="https://www.linkedin.com/in/deep-patel-92b95b1a3">
-  <img align="left" alt="Deep Patel | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a><!--
-<a href="https://www.instagram.com/oyy_bhatiya/">
-  <img align="left" alt="Deep Patel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.qwiklabs.com/public_profiles/2e2e4e11-d3d8-47d1-95f6-96292ac78185">
-  <img align="left" alt="Deep Patel | Quiklab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/qwiklabs.svg" />
-</a>
-<a href="https://github.com/deeppatel23">
-  <img align="left" alt="Deep Patel | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg" />
-</a>-->
-
-<br />
-<br />
-
-Hi, I'm [Deep Patel](https://www.linkedin.com/in/deep-patel-92b95b1a3), a Tech enthusiast and (Web/Android) Developer 🚀 from Gujarat, India, currently, Beside's programming, I enjoy eating food, traveling and exploring new tech stuffs.
-
- <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />-->
+<h1 align="center">Hey There !! 👋, I'm Deep Patel 👨‍💻</h1>
+<h4 align="center">Pre-final year student at <a href="https://www.ddu.ac.in/">Dharamsinh Desai University</a> </h4> 
+<h4 align="center">President at <a href="https://www.csiddu.in/">Computer Society Of India, DDU</a></h4>
+<h4 align="center">Mobile Team Member at <a href="https://www.dscddu.com/">Developer Student Clubs, DDU</a></h4><br>
  
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeppatel23&label=Profile%20views&color=0e75b6&style=flat" alt="Deep Patel" /> </p>
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning many things 😉; 
+- 🌱 I’m currently learning Data Structures and Algorithms 😉; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@deeppatel23](https://www.linkedin.com/in/deep-patel-92b95b1a3);
 - 😄 Pronouns: coder, developer💻... 
 - 📝[Resume](https://drive.google.com/file/d/18-pKVTmGBzdq252ee_mBA_EYG-Wr3llz/view?usp=sharing)
 - 🔗[Portfolio](https://portfolio-deeppatel23.vercel.app)
 
+**Find Me** 
+
+<p align="left">
+<a href="https://www.linkedin.com/in/deep-patel-92b95b1a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deep-patel-92b95b1a3" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pateldeep.23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pateldeep.23/" height="30" width="40" /></a>
+<a href="https://medium.com/@deeppatel23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@deeppatel23" height="30" width="40" /></a>
+<a href="https://twitter.com/pateldeep_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/pateldeep_23/" height="30" width="40" /></a>
+</p>
+
 **Languages and Tools:**  
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
@@ -70,8 +42,8 @@ Hi, I'm [Deep Patel](https://www.linkedin.com/in/deep-patel-92b95b1a3), a Tech e
 
 **Summary**
 
-[![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=deeppatel23&count_private=true&show_icons=true&theme=react)](https://github.com/deeppatel23/github-readme-stats)
+[![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=deeppatel23&count_private=true&show_icons=true)](https://github.com/deeppatel23/github-readme-stats)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deeppatel23&" alt="deeppatel" />
+[![Deep's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=deeppatel23&")](https://github.com/deeppatel23/github-readme-streak-stats)
 
 <!--</details>-->
