@@ -13,7 +13,7 @@
 - 📫 How to reach me: [@deeppatel23](https://www.linkedin.com/in/deep-patel-92b95b1a3);
 - 😄 Pronouns: coder, developer💻... 
 - 📝[Resume](https://drive.google.com/file/d/18-pKVTmGBzdq252ee_mBA_EYG-Wr3llz/view?usp=sharing)
-- 🔗[Portfolio](https://portfolio-deeppatel23.vercel.app)
+- 🔗[Portfolio](https://deeppatel.vercel.app)
 
 **Find Me** 
 
