@@ -1,7 +1,7 @@
 <h1 align="center">Hey There !! 👋, I'm Deep Patel 👨‍💻</h1>
-<h4 align="center">Pre-final year student at <a href="https://www.ddu.ac.in/">Dharamsinh Desai University</a> </h4> 
-<h4 align="center">President at <a href="https://www.csiddu.in/">Computer Society Of India, DDU</a></h4>
-<h4 align="center">Mobile Team Member at <a href="https://www.dscddu.com/">Developer Student Clubs, DDU</a></h4><br>
+<h4 align="center">Final year student at <a href="https://www.ddu.ac.in/">Dharamsinh Desai University</a> </h4> 
+<h4 align="center">Ex President at <a href="https://www.csiddu.in/">Computer Society Of India, DDU</a></h4>
+<h4 align="center">Co-Lead at <a href="https://www.dscddu.com/">Developer Student Clubs, DDU</a></h4><br>
  
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeppatel23&label=Profile%20views&color=0e75b6&style=flat" alt="Deep Patel" /> </p>
   
